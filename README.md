@@ -6,7 +6,7 @@ at a glance and interactively: **how likely are they to reach each round, who mi
 they face, and how do those odds shift as you walk down a scenario?**
 
 **Live: <https://road-to-the-final-wc26.pages.dev/>** (Cloudflare Pages)
-Mirror: <https://jerkahansson.github.io/wc2026-simulator/> (GitHub Pages)
+Mirror: <https://erikaarup.github.io/wc2026-simulator/> (GitHub Pages)
 Built as a single self-contained `index.html`.
 
 Three views over a shared stats panel:
