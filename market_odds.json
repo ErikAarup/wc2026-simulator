@@ -1,7 +1,7 @@
 {
   "source": "polymarket",
   "event": "world-cup-winner",
-  "fetched_at": "2026-09-01T11:52:46+00:00",
+  "fetched_at": "2026-09-02T11:33:46+00:00",
   "prices": {
     "Spain": 1.0
   }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "n_sims": 200000,
   "calibration": {
     "B": 270.0,
@@ -9,7 +9,7 @@
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-09-01T11:52:46+00:00",
+    "fetched_at": "2026-09-02T11:33:46+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -2084,7 +2084,7 @@
           "opponents": [
             {
               "name": "Mexico",
-              "elo": 1914,
+              "elo": 1913,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -2115,7 +2115,7 @@
           {
             "round": "R32",
             "opponent": "Mexico",
-            "elo": 1914,
+            "elo": 1913,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -2341,7 +2341,7 @@
           "opponents": [
             {
               "name": "Mexico",
-              "elo": 1914,
+              "elo": 1913,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -2390,7 +2390,7 @@
               {
                 "round": "R16",
                 "opponent": "Mexico",
-                "elo": 1914,
+                "elo": 1913,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 1.0,
@@ -3278,7 +3278,7 @@
       }
     },
     "Mexico": {
-      "elo": 1914,
+      "elo": 1913,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
