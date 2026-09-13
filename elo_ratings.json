@@ -1,11 +1,11 @@
 {
   "_comment": "World Football Elo ratings for the 48 WC2026 teams. Source: eloratings.net/2026_World_Cup 'Current Ratings' (already reflects played group matches). Team names match copabet_picks.py MATCHES exactly. Hand-refreshable: re-scrape current ratings and update 'updated' + values.",
-  "updated": "2026-09-11",
+  "updated": "2026-09-13",
   "source": "eloratings.net",
   "ratings": {
     "Algeria": 1756,
     "Argentina": 2173,
-    "Australia": 1795,
+    "Australia": 1794,
     "Austria": 1821,
     "Belgium": 1947,
     "Bosnia & Herzegovina": 1605,
@@ -31,7 +31,7 @@
     "Jordan": 1628,
     "Mexico": 1913,
     "Morocco": 1901,
-    "Netherlands": 1971,
+    "Netherlands": 1970,
     "New Zealand": 1534,
     "Norway": 1952,
     "Panama": 1658,
@@ -39,7 +39,7 @@
     "Portugal": 1995,
     "Qatar": 1411,
     "Saudi Arabia": 1596,
-    "Scotland": 1746,
+    "Scotland": 1745,
     "Senegal": 1816,
     "South Africa": 1560,
     "South Korea": 1723,
@@ -50,6 +50,6 @@
     "Turkey": 1852,
     "USA": 1746,
     "Uruguay": 1841,
-    "Uzbekistan": 1630
+    "Uzbekistan": 1631
   }
 }

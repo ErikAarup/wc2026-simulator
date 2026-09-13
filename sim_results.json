@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-13",
   "n_sims": 200000,
   "calibration": {
     "B": 270.0,
@@ -9,7 +9,7 @@
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-09-12T11:03:11+00:00",
+    "fetched_at": "2026-09-13T12:11:09+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -792,7 +792,7 @@
       }
     },
     "Australia": {
-      "elo": 1795,
+      "elo": 1794,
       "win_group": 0.0,
       "runner_up": 1.0,
       "advance": 1.0,
@@ -2188,7 +2188,7 @@
           "opponents": [
             {
               "name": "Australia",
-              "elo": 1795,
+              "elo": 1794,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -2226,7 +2226,7 @@
           {
             "round": "R32",
             "opponent": "Australia",
-            "elo": 1795,
+            "elo": 1794,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -3469,7 +3469,7 @@
           "opponents": [
             {
               "name": "Netherlands",
-              "elo": 1971,
+              "elo": 1970,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -3514,7 +3514,7 @@
           {
             "round": "R32",
             "opponent": "Netherlands",
-            "elo": 1971,
+            "elo": 1970,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -3544,7 +3544,7 @@
       }
     },
     "Netherlands": {
-      "elo": 1971,
+      "elo": 1970,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -4320,7 +4320,7 @@
       }
     },
     "Scotland": {
-      "elo": 1746,
+      "elo": 1745,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -5435,7 +5435,7 @@
       }
     },
     "Uzbekistan": {
-      "elo": 1630,
+      "elo": 1631,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
