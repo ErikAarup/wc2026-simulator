@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-22",
   "n_sims": 200000,
   "calibration": {
     "B": 270.0,
@@ -9,7 +9,7 @@
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-09-21T13:06:53+00:00",
+    "fetched_at": "2026-09-22T11:55:16+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -3469,7 +3469,7 @@
           "opponents": [
             {
               "name": "Netherlands",
-              "elo": 1970,
+              "elo": 1971,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -3514,7 +3514,7 @@
           {
             "round": "R32",
             "opponent": "Netherlands",
-            "elo": 1970,
+            "elo": 1971,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -3544,7 +3544,7 @@
       }
     },
     "Netherlands": {
-      "elo": 1970,
+      "elo": 1971,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
