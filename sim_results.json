@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "n_sims": 200000,
   "calibration": {
-    "B": 270.0,
-    "T": 2.3,
-    "mae": 0.0486
+    "B": 275.0,
+    "T": 2.28,
+    "mae": 0.0485
   },
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-09-23T11:55:10+00:00",
+    "fetched_at": "2026-09-24T12:02:55+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -2938,7 +2938,7 @@
       }
     },
     "Iraq": {
-      "elo": 1561,
+      "elo": 1556,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -3641,7 +3641,7 @@
       }
     },
     "New Zealand": {
-      "elo": 1534,
+      "elo": 1531,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -4247,7 +4247,7 @@
       }
     },
     "Saudi Arabia": {
-      "elo": 1596,
+      "elo": 1600,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
