@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "n_sims": 200000,
   "calibration": {
     "B": 265.0,
-    "T": 2.34,
-    "mae": 0.0513
+    "T": 2.32,
+    "mae": 0.0512
   },
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-09-30T12:52:11+00:00",
+    "fetched_at": "2026-10-01T13:41:01+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -599,7 +599,7 @@
       }
     },
     "Argentina": {
-      "elo": 2173,
+      "elo": 2174,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -1291,7 +1291,7 @@
           "opponents": [
             {
               "name": "Japan",
-              "elo": 1901,
+              "elo": 1895,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -1329,7 +1329,7 @@
           {
             "round": "R32",
             "opponent": "Japan",
-            "elo": 1901,
+            "elo": 1895,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -1412,7 +1412,7 @@
           "opponents": [
             {
               "name": "South Africa",
-              "elo": 1570,
+              "elo": 1579,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -1450,7 +1450,7 @@
           {
             "round": "R32",
             "opponent": "South Africa",
-            "elo": 1570,
+            "elo": 1579,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -1526,7 +1526,7 @@
           "opponents": [
             {
               "name": "Argentina",
-              "elo": 2173,
+              "elo": 2174,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -1557,7 +1557,7 @@
           {
             "round": "R32",
             "opponent": "Argentina",
-            "elo": 2173,
+            "elo": 2174,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -2028,7 +2028,7 @@
       }
     },
     "Ecuador": {
-      "elo": 1851,
+      "elo": 1857,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -2199,7 +2199,7 @@
           "opponents": [
             {
               "name": "Argentina",
-              "elo": 2173,
+              "elo": 2174,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -2234,7 +2234,7 @@
               {
                 "round": "R16",
                 "opponent": "Argentina",
-                "elo": 2173,
+                "elo": 2174,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 0.0,
@@ -2363,7 +2363,7 @@
           "opponents": [
             {
               "name": "Argentina",
-              "elo": 2173,
+              "elo": 2174,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -2406,7 +2406,7 @@
                       {
                         "round": "SF",
                         "opponent": "Argentina",
-                        "elo": 2173,
+                        "elo": 2174,
                         "condProb": 1.0,
                         "reachProb": 1.0,
                         "beatProb": 0.0,
@@ -3108,7 +3108,7 @@
       }
     },
     "Japan": {
-      "elo": 1901,
+      "elo": 1895,
       "win_group": 0.0,
       "runner_up": 1.0,
       "advance": 1.0,
@@ -3341,7 +3341,7 @@
           "opponents": [
             {
               "name": "Ecuador",
-              "elo": 1851,
+              "elo": 1857,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -3379,7 +3379,7 @@
           {
             "round": "R32",
             "opponent": "Ecuador",
-            "elo": 1851,
+            "elo": 1857,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -3641,7 +3641,7 @@
       }
     },
     "New Zealand": {
-      "elo": 1557,
+      "elo": 1561,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -3859,7 +3859,7 @@
       }
     },
     "Panama": {
-      "elo": 1650,
+      "elo": 1646,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -4174,7 +4174,7 @@
       }
     },
     "Qatar": {
-      "elo": 1449,
+      "elo": 1456,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -4490,7 +4490,7 @@
       }
     },
     "South Africa": {
-      "elo": 1570,
+      "elo": 1579,
       "win_group": 0.0,
       "runner_up": 1.0,
       "advance": 1.0,
@@ -4788,7 +4788,7 @@
           "opponents": [
             {
               "name": "Argentina",
-              "elo": 2173,
+              "elo": 2174,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -4835,7 +4835,7 @@
                           {
                             "round": "Final",
                             "opponent": "Argentina",
-                            "elo": 2173,
+                            "elo": 2174,
                             "condProb": 1.0,
                             "reachProb": 1.0,
                             "beatProb": 1.0,
@@ -5042,7 +5042,7 @@
           "opponents": [
             {
               "name": "Argentina",
-              "elo": 2173,
+              "elo": 2174,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -5081,7 +5081,7 @@
                   {
                     "round": "QF",
                     "opponent": "Argentina",
-                    "elo": 2173,
+                    "elo": 2174,
                     "condProb": 1.0,
                     "reachProb": 1.0,
                     "beatProb": 0.0,
