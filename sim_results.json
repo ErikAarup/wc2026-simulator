@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "n_sims": 200000,
   "calibration": {
     "B": 265.0,
     "T": 2.32,
-    "mae": 0.0512
+    "mae": 0.0513
   },
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-10-01T13:41:01+00:00",
+    "fetched_at": "2026-10-02T12:58:23+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -889,7 +889,7 @@
       }
     },
     "Austria": {
-      "elo": 1845,
+      "elo": 1843,
       "win_group": 0.0,
       "runner_up": 1.0,
       "advance": 1.0,
@@ -1302,7 +1302,7 @@
           "opponents": [
             {
               "name": "Norway",
-              "elo": 1937,
+              "elo": 1908,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -1337,7 +1337,7 @@
               {
                 "round": "R16",
                 "opponent": "Norway",
-                "elo": 1937,
+                "elo": 1908,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 0.0,
@@ -1744,7 +1744,7 @@
           "opponents": [
             {
               "name": "Portugal",
-              "elo": 2022,
+              "elo": 2047,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -1775,7 +1775,7 @@
           {
             "round": "R32",
             "opponent": "Portugal",
-            "elo": 2022,
+            "elo": 2047,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -1785,7 +1785,7 @@
       }
     },
     "Curacao": {
-      "elo": 1486,
+      "elo": 1494,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -2352,7 +2352,7 @@
           "opponents": [
             {
               "name": "Norway",
-              "elo": 1937,
+              "elo": 1908,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -2398,7 +2398,7 @@
                   {
                     "round": "QF",
                     "opponent": "Norway",
-                    "elo": 1937,
+                    "elo": 1908,
                     "condProb": 1.0,
                     "reachProb": 1.0,
                     "beatProb": 1.0,
@@ -2598,7 +2598,7 @@
       }
     },
     "Germany": {
-      "elo": 1884,
+      "elo": 1894,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -2792,7 +2792,7 @@
       }
     },
     "Haiti": {
-      "elo": 1564,
+      "elo": 1586,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -3067,7 +3067,7 @@
           "opponents": [
             {
               "name": "Norway",
-              "elo": 1937,
+              "elo": 1908,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -3098,7 +3098,7 @@
           {
             "round": "R32",
             "opponent": "Norway",
-            "elo": 1937,
+            "elo": 1908,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -3469,7 +3469,7 @@
           "opponents": [
             {
               "name": "Netherlands",
-              "elo": 1974,
+              "elo": 1970,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -3514,7 +3514,7 @@
           {
             "round": "R32",
             "opponent": "Netherlands",
-            "elo": 1974,
+            "elo": 1970,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -3544,7 +3544,7 @@
       }
     },
     "Netherlands": {
-      "elo": 1974,
+      "elo": 1970,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -3714,7 +3714,7 @@
       }
     },
     "Norway": {
-      "elo": 1937,
+      "elo": 1908,
       "win_group": 0.0,
       "runner_up": 1.0,
       "advance": 1.0,
@@ -3995,7 +3995,7 @@
           "opponents": [
             {
               "name": "Germany",
-              "elo": 1884,
+              "elo": 1894,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -4033,7 +4033,7 @@
           {
             "round": "R32",
             "opponent": "Germany",
-            "elo": 1884,
+            "elo": 1894,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -4053,7 +4053,7 @@
       }
     },
     "Portugal": {
-      "elo": 2022,
+      "elo": 2047,
       "win_group": 0.0,
       "runner_up": 1.0,
       "advance": 1.0,
@@ -4744,7 +4744,7 @@
           "opponents": [
             {
               "name": "Austria",
-              "elo": 1845,
+              "elo": 1843,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -4755,7 +4755,7 @@
           "opponents": [
             {
               "name": "Portugal",
-              "elo": 2022,
+              "elo": 2047,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -4803,7 +4803,7 @@
           {
             "round": "R32",
             "opponent": "Austria",
-            "elo": 1845,
+            "elo": 1843,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -4811,7 +4811,7 @@
               {
                 "round": "R16",
                 "opponent": "Portugal",
-                "elo": 2022,
+                "elo": 2047,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 1.0,
@@ -5435,7 +5435,7 @@
       }
     },
     "Uzbekistan": {
-      "elo": 1647,
+      "elo": 1653,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
