@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "n_sims": 200000,
   "calibration": {
     "B": 265.0,
     "T": 2.32,
-    "mae": 0.0513
+    "mae": 0.0514
   },
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-10-02T12:58:23+00:00",
+    "fetched_at": "2026-10-03T11:52:35+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -986,7 +986,7 @@
       }
     },
     "Belgium": {
-      "elo": 1959,
+      "elo": 1972,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -1567,7 +1567,7 @@
       }
     },
     "Colombia": {
-      "elo": 2000,
+      "elo": 1985,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -1931,7 +1931,7 @@
       }
     },
     "D.R. Congo": {
-      "elo": 1718,
+      "elo": 1693,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -2330,7 +2330,7 @@
           "opponents": [
             {
               "name": "D.R. Congo",
-              "elo": 1718,
+              "elo": 1693,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -2382,7 +2382,7 @@
           {
             "round": "R32",
             "opponent": "D.R. Congo",
-            "elo": 1718,
+            "elo": 1693,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -2422,7 +2422,7 @@
       }
     },
     "France": {
-      "elo": 2103,
+      "elo": 2088,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -2517,7 +2517,7 @@
           "opponents": [
             {
               "name": "Paraguay",
-              "elo": 1821,
+              "elo": 1836,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -2566,7 +2566,7 @@
               {
                 "round": "R16",
                 "opponent": "Paraguay",
-                "elo": 1821,
+                "elo": 1836,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 1.0,
@@ -2654,7 +2654,7 @@
           "opponents": [
             {
               "name": "Paraguay",
-              "elo": 1821,
+              "elo": 1836,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -2685,7 +2685,7 @@
           {
             "round": "R32",
             "opponent": "Paraguay",
-            "elo": 1821,
+            "elo": 1836,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -2751,7 +2751,7 @@
           "opponents": [
             {
               "name": "Colombia",
-              "elo": 2000,
+              "elo": 1985,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -2782,7 +2782,7 @@
           {
             "round": "R32",
             "opponent": "Colombia",
-            "elo": 2000,
+            "elo": 1985,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -3491,7 +3491,7 @@
           "opponents": [
             {
               "name": "France",
-              "elo": 2103,
+              "elo": 2088,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -3530,7 +3530,7 @@
                   {
                     "round": "QF",
                     "opponent": "France",
-                    "elo": 2103,
+                    "elo": 2088,
                     "condProb": 1.0,
                     "reachProb": 1.0,
                     "beatProb": 0.0,
@@ -3932,7 +3932,7 @@
       }
     },
     "Paraguay": {
-      "elo": 1821,
+      "elo": 1836,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -4006,7 +4006,7 @@
           "opponents": [
             {
               "name": "France",
-              "elo": 2103,
+              "elo": 2088,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -4041,7 +4041,7 @@
               {
                 "round": "R16",
                 "opponent": "France",
-                "elo": 2103,
+                "elo": 2088,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 0.0,
@@ -4449,7 +4449,7 @@
           "opponents": [
             {
               "name": "Belgium",
-              "elo": 1959,
+              "elo": 1972,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -4480,7 +4480,7 @@
           {
             "round": "R32",
             "opponent": "Belgium",
-            "elo": 1959,
+            "elo": 1972,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -4587,7 +4587,7 @@
       }
     },
     "South Korea": {
-      "elo": 1725,
+      "elo": 1722,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -4766,7 +4766,7 @@
           "opponents": [
             {
               "name": "Belgium",
-              "elo": 1959,
+              "elo": 1972,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -4777,7 +4777,7 @@
           "opponents": [
             {
               "name": "France",
-              "elo": 2103,
+              "elo": 2088,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -4819,7 +4819,7 @@
                   {
                     "round": "QF",
                     "opponent": "Belgium",
-                    "elo": 1959,
+                    "elo": 1972,
                     "condProb": 1.0,
                     "reachProb": 1.0,
                     "beatProb": 1.0,
@@ -4827,7 +4827,7 @@
                       {
                         "round": "SF",
                         "opponent": "France",
-                        "elo": 2103,
+                        "elo": 2088,
                         "condProb": 1.0,
                         "reachProb": 1.0,
                         "beatProb": 1.0,
@@ -4909,7 +4909,7 @@
           "opponents": [
             {
               "name": "France",
-              "elo": 2103,
+              "elo": 2088,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -4940,7 +4940,7 @@
           {
             "round": "R32",
             "opponent": "France",
-            "elo": 2103,
+            "elo": 2088,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -5031,7 +5031,7 @@
           "opponents": [
             {
               "name": "Colombia",
-              "elo": 2000,
+              "elo": 1985,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -5073,7 +5073,7 @@
               {
                 "round": "R16",
                 "opponent": "Colombia",
-                "elo": 2000,
+                "elo": 1985,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 1.0,
@@ -5168,7 +5168,7 @@
       }
     },
     "Turkey": {
-      "elo": 1794,
+      "elo": 1781,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -5315,7 +5315,7 @@
           "opponents": [
             {
               "name": "Belgium",
-              "elo": 1959,
+              "elo": 1972,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -5350,7 +5350,7 @@
               {
                 "round": "R16",
                 "opponent": "Belgium",
-                "elo": 1959,
+                "elo": 1972,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 0.0,
