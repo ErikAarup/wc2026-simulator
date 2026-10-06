@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "n_sims": 200000,
   "calibration": {
     "B": 265.0,
-    "T": 2.3,
-    "mae": 0.0508
+    "T": 2.28,
+    "mae": 0.051
   },
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-10-05T15:05:29+00:00",
+    "fetched_at": "2026-10-06T13:29:21+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -986,7 +986,7 @@
       }
     },
     "Belgium": {
-      "elo": 1972,
+      "elo": 1956,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -1131,7 +1131,7 @@
       }
     },
     "Bosnia & Herzegovina": {
-      "elo": 1655,
+      "elo": 1672,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -2422,7 +2422,7 @@
       }
     },
     "France": {
-      "elo": 2088,
+      "elo": 2104,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -2506,7 +2506,7 @@
           "opponents": [
             {
               "name": "Sweden",
-              "elo": 1759,
+              "elo": 1774,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -2558,7 +2558,7 @@
           {
             "round": "R32",
             "opponent": "Sweden",
-            "elo": 1759,
+            "elo": 1774,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -3491,7 +3491,7 @@
           "opponents": [
             {
               "name": "France",
-              "elo": 2088,
+              "elo": 2104,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -3530,7 +3530,7 @@
                   {
                     "round": "QF",
                     "opponent": "France",
-                    "elo": 2088,
+                    "elo": 2104,
                     "condProb": 1.0,
                     "reachProb": 1.0,
                     "beatProb": 0.0,
@@ -4006,7 +4006,7 @@
           "opponents": [
             {
               "name": "France",
-              "elo": 2088,
+              "elo": 2104,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -4041,7 +4041,7 @@
               {
                 "round": "R16",
                 "opponent": "France",
-                "elo": 2088,
+                "elo": 2104,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 0.0,
@@ -4449,7 +4449,7 @@
           "opponents": [
             {
               "name": "Belgium",
-              "elo": 1972,
+              "elo": 1956,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -4480,7 +4480,7 @@
           {
             "round": "R32",
             "opponent": "Belgium",
-            "elo": 1972,
+            "elo": 1956,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -4766,7 +4766,7 @@
           "opponents": [
             {
               "name": "Belgium",
-              "elo": 1972,
+              "elo": 1956,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -4777,7 +4777,7 @@
           "opponents": [
             {
               "name": "France",
-              "elo": 2088,
+              "elo": 2104,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -4819,7 +4819,7 @@
                   {
                     "round": "QF",
                     "opponent": "Belgium",
-                    "elo": 1972,
+                    "elo": 1956,
                     "condProb": 1.0,
                     "reachProb": 1.0,
                     "beatProb": 1.0,
@@ -4827,7 +4827,7 @@
                       {
                         "round": "SF",
                         "opponent": "France",
-                        "elo": 2088,
+                        "elo": 2104,
                         "condProb": 1.0,
                         "reachProb": 1.0,
                         "beatProb": 1.0,
@@ -4853,7 +4853,7 @@
       }
     },
     "Sweden": {
-      "elo": 1759,
+      "elo": 1774,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -4909,7 +4909,7 @@
           "opponents": [
             {
               "name": "France",
-              "elo": 2088,
+              "elo": 2104,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -4940,7 +4940,7 @@
           {
             "round": "R32",
             "opponent": "France",
-            "elo": 2088,
+            "elo": 2104,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -5168,7 +5168,7 @@
       }
     },
     "Turkey": {
-      "elo": 1781,
+      "elo": 1768,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -5304,7 +5304,7 @@
           "opponents": [
             {
               "name": "Bosnia & Herzegovina",
-              "elo": 1655,
+              "elo": 1672,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -5315,7 +5315,7 @@
           "opponents": [
             {
               "name": "Belgium",
-              "elo": 1972,
+              "elo": 1956,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -5342,7 +5342,7 @@
           {
             "round": "R32",
             "opponent": "Bosnia & Herzegovina",
-            "elo": 1655,
+            "elo": 1672,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -5350,7 +5350,7 @@
               {
                 "round": "R16",
                 "opponent": "Belgium",
-                "elo": 1972,
+                "elo": 1956,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 0.0,
