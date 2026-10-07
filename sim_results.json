@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "n_sims": 200000,
   "calibration": {
-    "B": 265.0,
-    "T": 2.28,
-    "mae": 0.051
+    "B": 270.0,
+    "T": 2.3,
+    "mae": 0.0514
   },
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-10-06T13:29:21+00:00",
+    "fetched_at": "2026-10-07T13:41:20+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
     },
     "implied": {
-      "Spain": 2282.0
+      "Spain": 2287.0
     }
   },
   "bracket": [
@@ -502,7 +502,7 @@
   ],
   "teams": {
     "Algeria": {
-      "elo": 1743,
+      "elo": 1744,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -558,7 +558,7 @@
           "opponents": [
             {
               "name": "Switzerland",
-              "elo": 1972,
+              "elo": 1975,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -589,7 +589,7 @@
           {
             "round": "R32",
             "opponent": "Switzerland",
-            "elo": 1972,
+            "elo": 1975,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -705,7 +705,7 @@
           "opponents": [
             {
               "name": "Switzerland",
-              "elo": 1972,
+              "elo": 1975,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -716,7 +716,7 @@
           "opponents": [
             {
               "name": "England",
-              "elo": 2144,
+              "elo": 2146,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -727,7 +727,7 @@
           "opponents": [
             {
               "name": "Spain",
-              "elo": 2282,
+              "elo": 2287,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -758,7 +758,7 @@
                   {
                     "round": "QF",
                     "opponent": "Switzerland",
-                    "elo": 1972,
+                    "elo": 1975,
                     "condProb": 1.0,
                     "reachProb": 1.0,
                     "beatProb": 1.0,
@@ -766,7 +766,7 @@
                       {
                         "round": "SF",
                         "opponent": "England",
-                        "elo": 2144,
+                        "elo": 2146,
                         "condProb": 1.0,
                         "reachProb": 1.0,
                         "beatProb": 1.0,
@@ -774,7 +774,7 @@
                           {
                             "round": "Final",
                             "opponent": "Spain",
-                            "elo": 2282,
+                            "elo": 2287,
                             "condProb": 1.0,
                             "reachProb": 1.0,
                             "beatProb": 0.0,
@@ -945,7 +945,7 @@
           "opponents": [
             {
               "name": "Spain",
-              "elo": 2282,
+              "elo": 2287,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -976,7 +976,7 @@
           {
             "round": "R32",
             "opponent": "Spain",
-            "elo": 2282,
+            "elo": 2287,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -1067,7 +1067,7 @@
           "opponents": [
             {
               "name": "USA",
-              "elo": 1786,
+              "elo": 1792,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -1078,7 +1078,7 @@
           "opponents": [
             {
               "name": "Spain",
-              "elo": 2282,
+              "elo": 2287,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -1109,7 +1109,7 @@
               {
                 "round": "R16",
                 "opponent": "USA",
-                "elo": 1786,
+                "elo": 1792,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 1.0,
@@ -1117,7 +1117,7 @@
                   {
                     "round": "QF",
                     "opponent": "Spain",
-                    "elo": 2282,
+                    "elo": 2287,
                     "condProb": 1.0,
                     "reachProb": 1.0,
                     "beatProb": 0.0,
@@ -1187,7 +1187,7 @@
           "opponents": [
             {
               "name": "USA",
-              "elo": 1786,
+              "elo": 1792,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -1218,7 +1218,7 @@
           {
             "round": "R32",
             "opponent": "USA",
-            "elo": 1786,
+            "elo": 1792,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -1349,7 +1349,7 @@
       }
     },
     "Canada": {
-      "elo": 1745,
+      "elo": 1739,
       "win_group": 0.0,
       "runner_up": 1.0,
       "advance": 1.0,
@@ -1567,7 +1567,7 @@
       }
     },
     "Colombia": {
-      "elo": 1985,
+      "elo": 1990,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -1641,7 +1641,7 @@
           "opponents": [
             {
               "name": "Switzerland",
-              "elo": 1972,
+              "elo": 1975,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -1676,7 +1676,7 @@
               {
                 "round": "R16",
                 "opponent": "Switzerland",
-                "elo": 1972,
+                "elo": 1975,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 0.0,
@@ -1688,7 +1688,7 @@
       }
     },
     "Croatia": {
-      "elo": 1861,
+      "elo": 1856,
       "win_group": 0.0,
       "runner_up": 1.0,
       "advance": 1.0,
@@ -1858,7 +1858,7 @@
       }
     },
     "Czech Republic": {
-      "elo": 1658,
+      "elo": 1656,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -1987,7 +1987,7 @@
           "opponents": [
             {
               "name": "England",
-              "elo": 2144,
+              "elo": 2146,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -2018,7 +2018,7 @@
           {
             "round": "R32",
             "opponent": "England",
-            "elo": 2144,
+            "elo": 2146,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -2084,7 +2084,7 @@
           "opponents": [
             {
               "name": "Mexico",
-              "elo": 1890,
+              "elo": 1868,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -2115,7 +2115,7 @@
           {
             "round": "R32",
             "opponent": "Mexico",
-            "elo": 1890,
+            "elo": 1868,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -2246,7 +2246,7 @@
       }
     },
     "England": {
-      "elo": 2144,
+      "elo": 2146,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -2341,7 +2341,7 @@
           "opponents": [
             {
               "name": "Mexico",
-              "elo": 1890,
+              "elo": 1868,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -2390,7 +2390,7 @@
               {
                 "round": "R16",
                 "opponent": "Mexico",
-                "elo": 1890,
+                "elo": 1868,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 1.0,
@@ -2539,7 +2539,7 @@
           "opponents": [
             {
               "name": "Spain",
-              "elo": 2282,
+              "elo": 2287,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -2582,7 +2582,7 @@
                       {
                         "round": "SF",
                         "opponent": "Spain",
-                        "elo": 2282,
+                        "elo": 2287,
                         "condProb": 1.0,
                         "reachProb": 1.0,
                         "beatProb": 0.0,
@@ -2751,7 +2751,7 @@
           "opponents": [
             {
               "name": "Colombia",
-              "elo": 1985,
+              "elo": 1990,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -2782,7 +2782,7 @@
           {
             "round": "R32",
             "opponent": "Colombia",
-            "elo": 1985,
+            "elo": 1990,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -3278,7 +3278,7 @@
       }
     },
     "Mexico": {
-      "elo": 1890,
+      "elo": 1868,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -3352,7 +3352,7 @@
           "opponents": [
             {
               "name": "England",
-              "elo": 2144,
+              "elo": 2146,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -3387,7 +3387,7 @@
               {
                 "round": "R16",
                 "opponent": "England",
-                "elo": 2144,
+                "elo": 2146,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 0.0,
@@ -3480,7 +3480,7 @@
           "opponents": [
             {
               "name": "Canada",
-              "elo": 1745,
+              "elo": 1739,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -3522,7 +3522,7 @@
               {
                 "round": "R16",
                 "opponent": "Canada",
-                "elo": 1745,
+                "elo": 1739,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 1.0,
@@ -3806,7 +3806,7 @@
           "opponents": [
             {
               "name": "England",
-              "elo": 2144,
+              "elo": 2146,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -3845,7 +3845,7 @@
                   {
                     "round": "QF",
                     "opponent": "England",
-                    "elo": 2144,
+                    "elo": 2146,
                     "condProb": 1.0,
                     "reachProb": 1.0,
                     "beatProb": 0.0,
@@ -4116,7 +4116,7 @@
           "opponents": [
             {
               "name": "Croatia",
-              "elo": 1861,
+              "elo": 1856,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -4127,7 +4127,7 @@
           "opponents": [
             {
               "name": "Spain",
-              "elo": 2282,
+              "elo": 2287,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -4154,7 +4154,7 @@
           {
             "round": "R32",
             "opponent": "Croatia",
-            "elo": 1861,
+            "elo": 1856,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -4162,7 +4162,7 @@
               {
                 "round": "R16",
                 "opponent": "Spain",
-                "elo": 2282,
+                "elo": 2287,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 0.0,
@@ -4247,7 +4247,7 @@
       }
     },
     "Saudi Arabia": {
-      "elo": 1621,
+      "elo": 1639,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -4320,7 +4320,7 @@
       }
     },
     "Scotland": {
-      "elo": 1746,
+      "elo": 1718,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -4546,7 +4546,7 @@
           "opponents": [
             {
               "name": "Canada",
-              "elo": 1745,
+              "elo": 1739,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -4577,7 +4577,7 @@
           {
             "round": "R32",
             "opponent": "Canada",
-            "elo": 1745,
+            "elo": 1739,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -4587,7 +4587,7 @@
       }
     },
     "South Korea": {
-      "elo": 1722,
+      "elo": 1730,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -4660,7 +4660,7 @@
       }
     },
     "Spain": {
-      "elo": 2282,
+      "elo": 2287,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -4950,7 +4950,7 @@
       }
     },
     "Switzerland": {
-      "elo": 1972,
+      "elo": 1975,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -5020,7 +5020,7 @@
           "opponents": [
             {
               "name": "Algeria",
-              "elo": 1743,
+              "elo": 1744,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -5031,7 +5031,7 @@
           "opponents": [
             {
               "name": "Colombia",
-              "elo": 1985,
+              "elo": 1990,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -5065,7 +5065,7 @@
           {
             "round": "R32",
             "opponent": "Algeria",
-            "elo": 1743,
+            "elo": 1744,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -5073,7 +5073,7 @@
               {
                 "round": "R16",
                 "opponent": "Colombia",
-                "elo": 1985,
+                "elo": 1990,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 1.0,
@@ -5241,7 +5241,7 @@
       }
     },
     "USA": {
-      "elo": 1786,
+      "elo": 1792,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
@@ -5362,7 +5362,7 @@
       }
     },
     "Uruguay": {
-      "elo": 1850,
+      "elo": 1851,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
@@ -5435,7 +5435,7 @@
       }
     },
     "Uzbekistan": {
-      "elo": 1653,
+      "elo": 1645,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
