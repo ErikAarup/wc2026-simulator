@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "n_sims": 200000,
   "calibration": {
     "B": 270.0,
@@ -9,7 +9,7 @@
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-11-09T16:42:53+00:00",
+    "fetched_at": "2026-11-10T15:06:13+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -1067,7 +1067,7 @@
           "opponents": [
             {
               "name": "USA",
-              "elo": 1793,
+              "elo": 1792,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -1109,7 +1109,7 @@
               {
                 "round": "R16",
                 "opponent": "USA",
-                "elo": 1793,
+                "elo": 1792,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 1.0,
@@ -1187,7 +1187,7 @@
           "opponents": [
             {
               "name": "USA",
-              "elo": 1793,
+              "elo": 1792,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -1218,7 +1218,7 @@
           {
             "round": "R32",
             "opponent": "USA",
-            "elo": 1793,
+            "elo": 1792,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -1302,7 +1302,7 @@
           "opponents": [
             {
               "name": "Norway",
-              "elo": 1900,
+              "elo": 1901,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -1337,7 +1337,7 @@
               {
                 "round": "R16",
                 "opponent": "Norway",
-                "elo": 1900,
+                "elo": 1901,
                 "condProb": 1.0,
                 "reachProb": 1.0,
                 "beatProb": 0.0,
@@ -2352,7 +2352,7 @@
           "opponents": [
             {
               "name": "Norway",
-              "elo": 1900,
+              "elo": 1901,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -2398,7 +2398,7 @@
                   {
                     "round": "QF",
                     "opponent": "Norway",
-                    "elo": 1900,
+                    "elo": 1901,
                     "condProb": 1.0,
                     "reachProb": 1.0,
                     "beatProb": 1.0,
@@ -3067,7 +3067,7 @@
           "opponents": [
             {
               "name": "Norway",
-              "elo": 1900,
+              "elo": 1901,
               "faceProb": 1.0,
               "beatProb": 0.0
             }
@@ -3098,7 +3098,7 @@
           {
             "round": "R32",
             "opponent": "Norway",
-            "elo": 1900,
+            "elo": 1901,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 0.0,
@@ -3714,7 +3714,7 @@
       }
     },
     "Norway": {
-      "elo": 1900,
+      "elo": 1901,
       "win_group": 0.0,
       "runner_up": 1.0,
       "advance": 1.0,
@@ -5241,7 +5241,7 @@
       }
     },
     "USA": {
-      "elo": 1793,
+      "elo": 1792,
       "win_group": 1.0,
       "runner_up": 0.0,
       "advance": 1.0,
