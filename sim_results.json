@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "n_sims": 200000,
   "calibration": {
     "B": 270.0,
@@ -9,7 +9,7 @@
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-11-11T14:37:07+00:00",
+    "fetched_at": "2026-11-12T15:28:55+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -3641,7 +3641,7 @@
       }
     },
     "New Zealand": {
-      "elo": 1559,
+      "elo": 1561,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
