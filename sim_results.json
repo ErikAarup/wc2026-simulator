@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "n_sims": 200000,
   "calibration": {
     "B": 275.0,
@@ -9,7 +9,7 @@
   "ratings_source": {
     "mode": "market",
     "source": "polymarket",
-    "fetched_at": "2026-11-18T15:52:38+00:00",
+    "fetched_at": "2026-11-19T15:56:28+00:00",
     "fit_error": 0.0,
     "target": {
       "Spain": 1.0
@@ -792,7 +792,7 @@
       }
     },
     "Australia": {
-      "elo": 1773,
+      "elo": 1772,
       "win_group": 0.0,
       "runner_up": 1.0,
       "advance": 1.0,
@@ -2188,7 +2188,7 @@
           "opponents": [
             {
               "name": "Australia",
-              "elo": 1773,
+              "elo": 1772,
               "faceProb": 1.0,
               "beatProb": 1.0
             }
@@ -2226,7 +2226,7 @@
           {
             "round": "R32",
             "opponent": "Australia",
-            "elo": 1773,
+            "elo": 1772,
             "condProb": 1.0,
             "reachProb": 1.0,
             "beatProb": 1.0,
@@ -2938,7 +2938,7 @@
       }
     },
     "Iraq": {
-      "elo": 1538,
+      "elo": 1539,
       "win_group": 0.0,
       "runner_up": 0.0,
       "advance": 0.0,
